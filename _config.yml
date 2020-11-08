@@ -13,9 +13,9 @@ description: > # this means to ignore newlines until "baseurl:"
   A whole lot of nothing right now... room to grow.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.ruffte.ch" # the base hostname & protocol for your site
-twitter_username: RuffLucas
-github_username:  LucasRuff
-linkedin_username: lucas-ruff-91516339
+twitter: RuffLucas
+github:  LucasRuff
+linkedin: lucas-ruff-91516339
 
 # Build settings
 markdown: kramdown
