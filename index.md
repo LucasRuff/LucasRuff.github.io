@@ -1,8 +1,1 @@
-<html>
-  <head>
-    <title>RuffTech</title>
-  </head>
-  <body>
-    <h1>Welcome</h1>
-  </body>
-</html>
+<h1>Welcome</h1>
